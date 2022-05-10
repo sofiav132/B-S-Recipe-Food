@@ -1,0 +1,14 @@
+/** ADD YOUR AWESOME CODES HERE **/
+
+/* Button and About Contact */
+.btn-red {
+  background-color: #e62121;
+  color: black;
+  font-weight: 600;
+}
+
+.btn-red:hover {
+  background-color: #f31909;
+  color: black;
+  font-weight: 600;
+}

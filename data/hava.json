@@ -1,0 +1,93 @@
+{
+  "menu": [{
+    "name": "Sushi Goreng",
+    "type": "Food",
+    "description": "Makanan khas jepang yang hangat dan nikmat disajikan. selain itu, bumbunya dapat menusuk lidah anda",
+    "img": "sushi.png",
+    "link": "sushi.html"
+  }, {
+    "name": "Cream Sausage Pasta",
+    "type": "Food",
+    "description": "Perpaduan Pasta, bawang putih, bawang bombai, dan saus spagetti instan menyatu dalam 1 rasa.",
+    "img": "pasta.png",
+    "link": "pasta.html"
+  }, {
+    "name": "Getuk Gulung Keju",
+    "type": "Tucker",
+    "description": "Potongan singkong yang dipadukan dengan pandan, keju parut, dan margarin sehingga dapat memanjakan lidah.",
+    "img": "gulung_keju.png",
+    "link": "gulung_keju.html"
+  }, {
+    "name": "Singkong Thailand",
+    "type": "Tucker",
+    "description": "Potongan Singkong yang dicampur dengan tepung beras, wijen, dan daun wijen yang membuat rasa menjadi semakin lezat.",
+    "img": "singkong.png",
+    "link": "singkong.html"
+  }, {
+    "name": "Puding Nangka Santan",
+    "type": "Tucker",
+    "description": "Jelly bening yang kenyal dan bergizi ketika disantap",
+    "img": "puding.png",
+    "link": "puding.html"
+  }, {
+    "name": "Kue Cente Manis",
+    "type": "Tucker",
+    "description": "Kue yang dibalut dengan daun pandan yang segar dan menyegarkan.",
+    "img": "kue_cente.png",
+    "link": "kue_cente.html"
+  }, {
+    "name": "Es Kopyor Durian",
+    "type": "Drink",
+    "description": "Dessert yang menyegarkan dengan daging kelapa muda dan daging durian ditaburi Sasa Santan Bubuk",
+    "img": "kopyor_durian.png",
+    "link": "kopyor_durian.html"
+  }, {
+    "name": "Teri Balado",
+    "type": "Food",
+    "description": "Campuran Ikan Teri, Kacang Tanah Sangrai, dan Sambal terasi yang terasa nikmat bila dicampur dengan nasi uduk atau nasi kuning ",
+    "img": "teri_balado.png",
+    "link": "teri_balado.html"
+  }, {
+    "name": "Es Cocopandan Selasih",
+    "type": "Drink",
+    "description": "Merupakan Minuman yang terdiri dari campuran nata de coco, cocopandan, dan kelapa serut yang dapat menyegarkan lidah ",
+    "img": "es_serut.png",
+    "link": "cocopandan_selasih.html"
+  }, {
+    "name": "Omelet Ayam",
+    "type": "Food",
+    "description": "Terdiri dari campuran paprika merah, fillet ayam, dan lengkuas yang dapat memanjakan lidah",
+    "img": "omelet_ayam.png",
+    "link": "omelet_ayam.html"
+  }, {
+    "name": "Sup Ikan Pedas",
+    "type": "Food",
+    "description": "Semangkuk kuah yang berisi ikan tuna, bawang merah, jamur, dan jahe yang membawa kenikmatan.",
+    "img": "sup_ikan.png",
+    "link": "ikan_pedas.html"
+  }, {
+    "name": "Roti Labu Kukus",
+    "type": "Tucker",
+    "description": "Campuran gula pasir, mentega, roti tawar, dan keju menyatu dalam roti yang dikukus.",
+    "img": "labu_kukus.png",
+    "link": "labu_kukus.html"
+  }, {
+    "name": "Es Merah Delima",
+    "type": "Drink",
+    "description": "Minuman dengan campuran alpukat, nangka, dan kelapa muda yang lezat dan nikmat dilidah.",
+    "img": "merah_delima.png",
+    "link": "merah_delima.html"
+  }, {
+    "name": "Bubur Candil Spesial",
+    "type": "Drink",
+    "description": "Minuman dengan campuran ketan, gula jawa, dan daun pandan yang memanjakan lidah.",
+    "img": "bubur_candil.png",
+    "link": "bubur_candil.html"
+  }, {
+    "name": "Sayur Labu Udang",
+    "type": "Food",
+    "description": "Campuran lengkuas, daun salam, daun jeruk, dan udang menyatu dalam 1 mangkuk yang penuh cita rasa dan kehangatan.",
+    "img": "sayur.png",
+    "link": "labu_udang.html"
+  }]
+}

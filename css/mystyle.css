@@ -1,0 +1,222 @@
+.thumbnail-about {
+  box-shadow: 30px 30px 0px #e62121;
+}
+
+.about .head {
+  font-weight: 100;
+  color: black;
+}
+
+.text-recipes p {
+  font-size: 20px;
+}
+
+.food-name h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+.food-time {
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  text-align: center;
+}
+
+.food-time p:first-child {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.food-time p:nth-child(2n) {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.dotted-center {
+  border: 2px dotted black;
+}
+
+.text-materials li {
+  font-size: 16px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .little-description {
+    display: none;
+  }
+}
+
+.little-description p:first-child {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.little-description p:nth-child(2n) {
+  margin-top: -15px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.page-pasta {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/pasta.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 0;
+  position: relative;
+}
+
+.page-kopyor-durian {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/kopyor_durian.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-teri-balado {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/teri_balado.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-cocopandan-selasih {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/es_serut.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-omelet-ayam {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/omelet_ayam.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-teri-balado {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/sup_ikan.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-labu-kukus {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/labu_kukus.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-labu-udang {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/sayur.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-sushi {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/sushi.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-gulung-keju {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/gulung_keju.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-singkong-thailand {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/singkong.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-puding-nangka {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/puding.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-kue-cente {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/kue_cente.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-merah-delima {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/merah_delima.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-bubur-candil {
+  padding: 250px 0 150px;
+  background: url(../images/food-recipe/bubur_candil.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-rica-rica {
+  padding: 250px 0 150px;
+  background: url(../images/carousel/2.jpg) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-gado {
+  padding: 250px 0 150px;
+  background: url(../images/carousel/1.jpg) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
+
+.page-steak {
+  padding: 250px 0 150px;
+  background: url(../images/carousel/3.jpg) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -10px;
+  position: relative;
+}
