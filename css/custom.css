@@ -1,14 +1,14 @@
 /** ADD YOUR AWESOME CODES HERE **/
 
 /* Button and About Contact */
-.btn-red {
-  background-color: #e62121;
+.btn-yellow {
+  background-color: #FFDD33;
   color: black;
   font-weight: 600;
 }
 
-.btn-red:hover {
-  background-color: #f31909;
+.btn-yellow:hover {
+  background-color: #FFE459;
   color: black;
   font-weight: 600;
 }
